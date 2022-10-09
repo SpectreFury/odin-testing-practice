@@ -1,0 +1,23 @@
+{
+  "name": "odin-testing-practice",
+  "version": "1.0.0",
+  "description": "A testing assignment under the Node section of The Odin Project",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpectreFury/odin-testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpectreFury/odin-testing-practice/issues"
+  },
+  "homepage": "https://github.com/SpectreFury/odin-testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}
